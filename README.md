@@ -8,7 +8,7 @@ Steps
 -----
 It has the similar procedure of installation as in any YII theme.
 
-1. Move the theme folder to the creted application destination <code>app/themes/<!--our theme--></code>
+1. Move the theme folder to the created application destination <code>app/themes/<!--our theme--></code>
 
 
 2. Go to <code>protected/config/main.php</code> in your YII application add the following lines inside the array
