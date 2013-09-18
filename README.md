@@ -3,7 +3,7 @@ Black bootstrap
 
 A YII bootstrap theme has both one column and two column layout, unique style for breadcrumbs, automatic widget style for the crud view.
 
-The screenshot and theme score was available <a href="https://github.com/innovativenachi/black-bootstrap" target="_blank">here</a>
+The screenshot and theme score was available <a href="http://yii.themefactory.net/theme/133/black-bootstrap" target="_blank">here</a>
 
 Steps
 -----
